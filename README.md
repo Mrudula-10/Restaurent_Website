@@ -4,3 +4,5 @@ A simple frontend web-development project to build a restaurent website using ht
 ![w1](https://github.com/Mrudula-10/Restaurent_Website/assets/127319614/be222e4b-7197-4672-83ab-1eb33b37af35)
 
 ![w2](https://github.com/Mrudula-10/Restaurent_Website/assets/127319614/d311ed48-ea0c-4513-b842-61d1a368d243)
+
+![w3](https://github.com/Mrudula-10/Restaurent_Website/assets/127319614/30b5cf6e-77b5-477b-87a3-17c835be6d45)
